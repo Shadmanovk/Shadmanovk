@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shadmanovk
-- 👀 I’m interested in programming, embedded systems, AI, NLP, IOT
+- 👀 I’m interested in programming, embedded systems, AI, NLP, IOT, RTOS, ROBOTICS
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on big companies, which help people
 - 📫 How to reach me professional c++ programmer?
